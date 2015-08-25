@@ -1,0 +1,11 @@
+#sidebar TableOfContents
+=Zigbee Wireless Sensor Networks=
+
+==Purpose of Project==
+The purpose of this project is to gain experience in designing wireless sensor networks that can be used in multiple applications such as: 
+
+
+
+
+
+    
